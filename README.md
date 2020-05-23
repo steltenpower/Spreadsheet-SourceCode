@@ -9,6 +9,10 @@ Cells only provide a view, in which you can select cells. Code and data is not l
 Maybe this is also a basis for something else: take the cells out of the grid, into a graph, where arrows show use of variables.
 As you can have several cells below each other as a list, above the value it can have name, and below it units, explanation.
 
+Also:
+
+[Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/)
+
 E2D3 is to have JavaScript power in Excel, for D3 and more …
 
 https://blockpad.net/
