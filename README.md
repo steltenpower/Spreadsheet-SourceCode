@@ -13,6 +13,8 @@ Also:
 
 [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/)
 
-E2D3 is to have JavaScript power in Excel, for D3 and more …
+https://e2d3.org/ is to have JavaScript power in Excel, for D3 and more …
 
 https://blockpad.net/
+
+https://observablehq.com
