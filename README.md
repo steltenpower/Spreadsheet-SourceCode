@@ -18,3 +18,5 @@ https://e2d3.org/ is to have JavaScript power in Excel, for D3 and more …
 https://blockpad.net/
 
 https://observablehq.com
+
+See how far you can get with Jupyter
