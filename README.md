@@ -20,3 +20,5 @@ https://blockpad.net/
 https://observablehq.com
 
 See how far you can get with Jupyter
+
+Microsoft must have something like this. Can you tell me? Though I strongly prefer open source.
