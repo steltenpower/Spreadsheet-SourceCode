@@ -22,3 +22,5 @@ https://observablehq.com
 See how far you can get with Jupyter
 
 Microsoft must have something like this. Can you tell me? Though I strongly prefer open source.
+
+dont_make_programmers_cry.xlsx is my first sketch for trying to help Excel users structure their data in a way that doesn't make programmers cry
