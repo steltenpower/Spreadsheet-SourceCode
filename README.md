@@ -8,11 +8,10 @@ Cells only would provide a view, in which you can select cells. Code and data ca
 Maybe this would also a basis for something else: take the cells out of the grid, into a graph, where arrows show use of variables.
 
 How to implement:
-- Make it inside of [E2D3](https://e2d3.org), or as an Excel extension like E2D3 is.
+- Make it inside of [E2D3](https://e2d3.org) (has JavaScript references to cells in Excel-embedded web browser), or as an Excel extension like E2D3 is.
 
 Also look at:
 - [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/)
-- https://e2d3.org/ is to have JavaScript power in Excel, for D3 and more …
 - https://blockpad.net/
 - https://observablehq.com
 - See how far you can get with Jupyter
