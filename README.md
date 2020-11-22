@@ -9,6 +9,7 @@ Maybe this would also a basis for something else: take the cells out of the grid
 
 How to implement:
 - Make it inside of [E2D3](https://e2d3.org) (has JavaScript references to cells in Excel-embedded web browser), or as an Excel extension like E2D3 is.
+- If the above doesn't work, try this route through R: https://mobile.twitter.com/steltenpower/status/1330290665322934278
 
 Also look at:
 - [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/)
@@ -16,4 +17,3 @@ Also look at:
 - https://observablehq.com
 - See how far you can get with Jupyter
 - Microsoft must have something like this. Can you tell me? VBA? Though I strongly prefer open source.
-
