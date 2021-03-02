@@ -8,6 +8,7 @@ How to implement:
 - If the above doesn't work, try this route through R: https://mobile.twitter.com/steltenpower/status/1330290665322934278
 
 Also look at:
+- Excel doing Lambda, or User Defined Functions nowadays.
 - [Deep Spreadsheets](https://gitlab.com/muishkin/mwnci---deep-spreadsheets/)
 - https://blockpad.net/
 - https://observablehq.com
