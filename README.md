@@ -1,6 +1,7 @@
 # Spreadsheet-SourceCode
+<img src="https://repository-images.githubusercontent.com/206755968/8b27c900-7896-11eb-9aec-d8e4c5899f80">
 Spreadsheets can show the output of many cells, but the formula of only 1. That's like looking through a peephole, instead of proper coding.
-I propose to no longer show formulas in the cell itself, but in some sort of code view besides the sheet.
+I propose to no longer show formulas exclusively 1-on-1 per cell, but in some sort of code view besides the sheet.
 And why stick to only 1 source view; pick whatever you like: cells, linear text, graph
 
 How to implement:
