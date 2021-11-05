@@ -5,6 +5,9 @@ I propose to no longer show formulas exclusively 1-on-1 per cell, but in some so
 And why stick to only 1 source view; pick whatever you like: cells, linear text, graph
 
 How to implement:
+Seems done: https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff
+
+otherwise:
 - Make it inside of [E2D3](https://e2d3.org) (has JavaScript references to cells in Excel-embedded web browser), or as an Excel extension like E2D3 is.
 - If the above doesn't work, try this route through R: https://mobile.twitter.com/steltenpower/status/1330290665322934278
 
