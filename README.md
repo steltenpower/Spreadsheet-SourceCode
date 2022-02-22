@@ -6,7 +6,7 @@ And why stick to only 1 source view; pick whatever you like: cells, linear text,
 
 
 How to implement:
-Seems done: https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff
+Seems done: https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff and https://github.com/mito-ds/monorepo#-mito-monorepo
 
 
 otherwise:
