@@ -1,5 +1,5 @@
 # Spreadsheet-SourceCode
-<img src="https://repository-images.githubusercontent.com/206755968/8b27c900-7896-11eb-9aec-d8e4c5899f80">
+![stopPeepholing](https://repository-images.githubusercontent.com/206755968/aeb9f700-bfde-11eb-87af-516894842592)
 Spreadsheets can show the output of many cells, but the formula of only 1. That's like looking through a peephole, instead of proper coding.
 I propose to no longer show formulas exclusively 1-on-1 per cell, but in some sort of code view besides the sheet.
 And why stick to only 1 source view; pick whatever you like: cells, linear text, graph
