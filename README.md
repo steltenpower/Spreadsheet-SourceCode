@@ -4,6 +4,8 @@ Spreadsheets can show the output of many cells, but the formula of only 1. That'
 I propose to no longer show formulas exclusively 1-on-1 per cell, but in some sort of code view besides the sheet.
 And why stick to only 1 source view; pick whatever you like: cells, linear text, graph
 
+Actually, the problem seems less bad: https://www.ablebits.com/office-addins-blog/show-formulas-excel/#:~:text=In%20your%20Excel%20worksheet%2C%20go,again%20to%20toggle%20it%20off.
+
 
 How to implement:
 Seems done: https://towardsdatascience.com/interactive-spreadsheets-in-jupyter-32ab6ec0f4ff and https://github.com/mito-ds/monorepo#-mito-monorepo
